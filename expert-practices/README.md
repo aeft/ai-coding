@@ -10,6 +10,12 @@ Entries are sorted in **reverse chronological order** (latest first).
 
 ## Entries
 
+## 2025-09
+
+- [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/) [@simonw](https://github.com/simonw)
+  - > A critical new skill to develop is designing agentic loops.
+  - > Any time you find yourself thinking “ugh, I’m going to have to try a lot of variations here” is a strong signal that an agentic loop might be worth trying!
+
 
 
 ### 2025-08
